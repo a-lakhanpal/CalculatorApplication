@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3020D9EA2339EE5600BD3A7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30768692232754D00049A79B /* AppDelegate.swift */; };
+		3020D9EB2339EE5600BD3A7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30768692232754D00049A79B /* AppDelegate.swift */; };
 		30768693232754D00049A79B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30768692232754D00049A79B /* AppDelegate.swift */; };
 		30768695232754D00049A79B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30768694232754D00049A79B /* ViewController.swift */; };
 		30768698232754D00049A79B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30768696232754D00049A79B /* Main.storyboard */; };
@@ -265,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3020D9EA2339EE5600BD3A7E /* AppDelegate.swift in Sources */,
 				307686A8232754D20049A79B /* CalculatorAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,6 +276,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3020D9EB2339EE5600BD3A7E /* AppDelegate.swift in Sources */,
 				307686B3232754D20049A79B /* CalculatorAppUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -442,7 +446,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ankur.unitec.class.exercises.CalculatorApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -460,7 +464,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ankur.unitec.class.exercises.CalculatorApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
