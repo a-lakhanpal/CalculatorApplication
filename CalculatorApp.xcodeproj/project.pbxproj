@@ -435,7 +435,6 @@
 		307686B8232754D20049A79B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = X959JP3H43;
 				INFOPLIST_FILE = CalculatorApp/Info.plist;
@@ -453,7 +452,6 @@
 		307686B9232754D20049A79B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = X959JP3H43;
 				INFOPLIST_FILE = CalculatorApp/Info.plist;
